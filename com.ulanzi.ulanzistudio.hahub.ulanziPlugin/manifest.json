@@ -3,7 +3,7 @@
   "Name": "HA Hub",
   "Description": "Home Assistant integration with live state, entity picker, pulse animations, long-press edit mode, and 8 action types: Toggle, Smart Toggle, Aggregate, Scene, Service Call, Sensor, Encoder, Smart Dialer.",
   "Icon": "resources/plugin-icon.png",
-  "Version": "0.11.13",
+  "Version": "0.11.14",
   "UUID": "com.ulanzi.ulanzistudio.hahub",
   "Type": "JavaScript",
   "CodePath": "plugin/app.html",
