@@ -4,6 +4,8 @@
 
 # HA Hub for UlanziDeck
 
+[![Available on Ulanzi Community Store](https://raw.githubusercontent.com/narlei/ulanzicommunitystore/main/docs/badges/ulanzi-community-store.svg)](https://ulanzicommunitystore.narlei.com)
+
 > Bring your Home Assistant home into reach. Live state on every key,
 > long-press to dial, multi-entity hubs, and a stylized HA logo reveal
 > when you switch pages.
